@@ -1,0 +1,6 @@
+Conhecendo o ECMAScript: [[Conhecendo o ECMAScript]]
+Conhecendo o strict mode: [[Conhecendo o strict mode]]
+Desestruturação de array: [[Desestruturação de array]]
+Desestruturação de objetos: [[Desestruturação de objetos]]
+Conhecendo rest params: [[Conhecendo o rest params]]
+conhecendo o spread: [[Conhecendo o spread]]

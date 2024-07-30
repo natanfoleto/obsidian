@@ -1,6 +1,6 @@
 
 Aprendendo sobre classes: [[Aprendendo sobre classes]]
-Criando uma classe com um método: [[Criando uma classe com um método]]
+Criando uma classe com um método construtor: [[Criando uma classe com um método construtor]]
 Criando propriedades dentro das classes: [[Criando propriedades dentro das classes]]
 Adicionando métodos nas classes: [[Adicionando métodos nas classes]]
 O que é método estático: [[O que é método estático]]

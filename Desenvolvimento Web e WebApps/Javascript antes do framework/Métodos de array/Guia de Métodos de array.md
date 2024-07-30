@@ -1,0 +1,7 @@
+Método map(): [[Método map()]]
+Método filter(): [[Método filter()]]
+Método findIndex(): [[Método findIndex()]]
+Método find(): [[Método find()]]
+Método every(): [[Método every()]]
+Método some(): [[Método some()]]
+Método reduce(): [[Método reduce()]]
