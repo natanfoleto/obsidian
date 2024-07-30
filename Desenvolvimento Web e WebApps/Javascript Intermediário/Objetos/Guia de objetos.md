@@ -1,0 +1,10 @@
+
+Aprendendo sobre objetos: [[Aprendendo sobre objetos]]
+Criando um objeto: [[Criando um objeto]]
+Acessando um objeto: [[Acessando um objeto]]
+Acessando propriedades no contexto do objeto: [[Accesando propriedades no contexto do objeto]]
+Atualizando um objeto: [[Atualizando um objeto]]
+Encadeamento opcional (Optional chaining): [[Encadeamento opcional (Optional chaining)]]
+Operador de coalescência nula: [[Operador de coalescência nula]]
+O que é uma função construtora?: [[O que é uma função construtora?]]
+Quiz - Objetos: [[Quiz - Objetos]]

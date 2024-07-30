@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "3fb6fe8fdcfc9a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "99484c37023b6bd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7679b8bacb7c69ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Aprendendo sobre classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dece84405db827fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "854e81fa9d16d154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1850ef955b8cd5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f70d40f175e6f16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aff3573bf2f462a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5026054382324
+  },
+  "right": {
+    "id": "60b5baf81e1d8f7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa9c1a40bfee78ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e05e6ef52753a64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Aprendendo sobre classes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f96ed32466694c54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Aprendendo sobre classes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11fa5c12019b4e17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13eaadb2df766426",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Aprendendo sobre classes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7679b8bacb7c69ce",
+  "lastOpenFiles": [
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Guia de classes.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/images/heranca.png",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/images/classes.png",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/images/construtores-metodos.png",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/images",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Aprendendo sobre classes.md",
+    "Captura de Tela 2024-07-30 às 15.05.36.png",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Quiz - Classes.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Aprendendo sobre herança e cadeia de protótipos.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Como utilizar classes para criar erros customizados.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/O que é método estático.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Como utilizar classes pra lidar com exceções.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Criando um objeto prototype.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Sobrescrevendo métodos.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Adicionando métodos nas classes.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Como aplicar herança em classes?.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Criando propriedades dentro das classes.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/Criando uma classe com um método.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Guia de métodos de texto.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Quiz - Métodos de texto.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Obtendo o comprimento de uma string.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Objetos/Guia de objetos.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Encontrando um conteúdo no texto.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Separando e unindo strings.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Completando uma string.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Substituindo e fatiando um texto.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Texto maiúsculo e minúsculo.md",
+    "Sem título.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Objetos/Quiz - Objetos.md",
+    "Desenvolvimento Web e WebApps/Javascript Intermediário/Objetos/O que é uma função construtora?.md",
+    "Desenvolvimento Web e WebApps/Javascript Básico/Projeto Convert",
+    "Desenvolvimento Web e WebApps/Javascript Básico/Depuração de código",
+    "Desenvolvimento Web e WebApps/Javascript Básico/Document Object Model",
+    "Desenvolvimento Web e WebApps/Javascript Básico/Funções",
+    "Desenvolvimento Web e WebApps/Javascript Básico/Condicionais e controle de fluxo",
+    "Desenvolvimento Web e WebApps/Javascript Básico/Expressões e Operadores",
+    "Desenvolvimento Web e WebApps/Javascript Básico/Variáveis e constantes",
+    "Desenvolvimento Web e WebApps/Javascript Básico/Primeiros Passos",
+    "Desenvolvimento Web e WebApps/TypeScript/Sem título.canvas",
+    "Desenvolvimento Web e WebApps/Git e Github",
+    "Desenvolvimento Web e WebApps/Sem título.canvas"
+  ]
+}
