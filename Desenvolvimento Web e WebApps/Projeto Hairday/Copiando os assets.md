@@ -9,6 +9,9 @@ npm i copy-webpack-plugin@11.0.0 --save-dev
 Agora vamos pro arquivo de configuração `webpack.config.js`.
 
 ```js
+const CopyWebpackPlugin = require("copy-webpack-plugin")
+
+...
 plugins: [
 	new HtmlWebpackPlugin({
 		template: path.resolve(__dirname, "index.html"),

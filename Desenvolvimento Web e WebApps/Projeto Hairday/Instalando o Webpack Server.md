@@ -11,8 +11,6 @@ Agora vamos fazer a configuração do `webpack server` no projeto.
 ```js
 const path = require("path")
 
-  
-
 module.exports = {
 	target: "web",
 	mode: "development",

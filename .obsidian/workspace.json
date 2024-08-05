@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46b2e929edd09b59",
+            "id": "4dcbd65687ab4d53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "588d7dac64b4c7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Renomeando as exportações.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md"
+              }
             }
           }
         ]
@@ -138,8 +158,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "46b2e929edd09b59",
+  "active": "4dcbd65687ab4d53",
   "lastOpenFiles": [
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Usando classes nos módulos.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Renomeando as importações.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Renomeando as exportações.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Criando os módulos.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Exportação padrão ou nomeada.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Importando tudo.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Guia do projeto.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Conhecendo o ES Modules.md",
+    "Captura de Tela 2024-08-05 às 16.05.27.png",
+    "Captura de Tela 2024-08-05 às 16.04.30.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Guia do módulo.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Incluindo o Babel na aplicação.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Copiando os assets.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Carregando o CSS.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Carregando o favicon.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Carregando o HTML.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Instalando o Webpack Server.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Usando o json-server.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Instalando o Webpack.md",
+    "Desenvolvimento Web e WebApps/Projeto Hairday/Informações da aplicação.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Guia de imutabilidade.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Manipulando objetos imutáveis.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Shallow freezing.md",
@@ -155,29 +196,9 @@
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images/imutabilidade.png",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Conhecendo a imutabilidade.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Guia do módulo.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Métodos de array/Guia de Métodos de array.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Métodos de array/Método reduce().md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Métodos de array/Método some().md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Métodos de array/Método every().md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Métodos de array/Método find().md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Métodos de array/Método findIndex().md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Métodos de array/Método filter().md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Métodos de array/Método map().md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/Guia de Javascript moderno.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/Conhecendo o spread.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/Conhecendo o rest params.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/Desestruturação de objetos.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/Desestruturação de array.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/Conhecendo o strict mode.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/Conhecendo o ECMAScript.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/images/ecma.png",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/images",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/images/ecmascript-1996.png",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/images/ecmascript-atual.png",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno",
-    "Desenvolvimento Web e WebApps/Javascript Intermediário/Métodos de texto/Completando uma string.md",
-    "Desenvolvimento Web e WebApps/Javascript Intermediário/Quiz - Javascript Intermediário.md",
     "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/images",
     "Desenvolvimento Web e WebApps/Javascript Básico/Projeto Convert",
     "Desenvolvimento Web e WebApps/Javascript Básico/Depuração de código",
