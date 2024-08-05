@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "74d3a9cb261d94ee",
+        "id": "149067c555d578f8",
         "type": "tabs",
         "children": [
           {
-            "id": "4dcbd65687ab4d53",
+            "id": "0aa58fb0007720de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "588d7dac64b4c7a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Renomeando as exportações.md",
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Prioridade e ordem de execução.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Prioridade e ordem de execução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Prioridade e ordem de execução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md"
+                "file": "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Prioridade e ordem de execução.md"
               }
             }
           }
@@ -158,19 +146,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4dcbd65687ab4d53",
+  "active": "0aa58fb0007720de",
   "lastOpenFiles": [
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images/caracteristicas.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Prioridade e ordem de execução.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images/concorrencia-event-loop.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images/fluxo.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images/event-loop.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images/micro-macro-tasks.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images/resumo.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Conhecendo o event loop.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Conhecendo async e await.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Conhecendo as promisses.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Renomeando as exportações.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Conhecendo funções assíncronas.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Conhecendo o setInterval.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Conhecendo o setTimeout.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/Guia de funções assíncronas.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images/funcoes-assincronas-1.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images/funcoes-assincronas-2.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Funções assíncronas/images",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/images/principais-caracteristicas.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/images/ESModules.png",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Conhecendo o ES Modules.md",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/images",
+    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Usando classes nos módulos.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Renomeando as importações.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Renomeando as exportações.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Criando os módulos.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Exportação padrão ou nomeada.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Importando tudo.md",
     "Desenvolvimento Web e WebApps/Projeto Hairday/Guia do projeto.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Guia de módulos.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Módulos/Conhecendo o ES Modules.md",
-    "Captura de Tela 2024-08-05 às 16.05.27.png",
-    "Captura de Tela 2024-08-05 às 16.04.30.png",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Guia do módulo.md",
     "Desenvolvimento Web e WebApps/Projeto Hairday/Incluindo o Babel na aplicação.md",
     "Desenvolvimento Web e WebApps/Projeto Hairday/Copiando os assets.md",
@@ -179,24 +185,7 @@
     "Desenvolvimento Web e WebApps/Projeto Hairday/Carregando o HTML.md",
     "Desenvolvimento Web e WebApps/Projeto Hairday/Instalando o Webpack Server.md",
     "Desenvolvimento Web e WebApps/Projeto Hairday/Usando o json-server.md",
-    "Desenvolvimento Web e WebApps/Projeto Hairday/Instalando o Webpack.md",
-    "Desenvolvimento Web e WebApps/Projeto Hairday/Informações da aplicação.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Guia de imutabilidade.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Manipulando objetos imutáveis.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Shallow freezing.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Deep freeze.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Aplicando imutabilidade.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Shallow e Deep Copy.md",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images/beneficio.png",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images/exemplo2.png",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images/criacao-interface.png",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images/mudancas.png",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images/exemplo1.png",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images/estrategia.png",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images/imutabilidade.png",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/Conhecendo a imutabilidade.md",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Imutabilidade/images",
-    "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/images/ecma.png",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno/images",
     "Desenvolvimento Web e WebApps/Javascript antes do framework/Javascript moderno",
     "Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/images",
@@ -204,8 +193,6 @@
     "Desenvolvimento Web e WebApps/Javascript Básico/Depuração de código",
     "Desenvolvimento Web e WebApps/Javascript Básico/Document Object Model",
     "Desenvolvimento Web e WebApps/Javascript Básico/Funções",
-    "Desenvolvimento Web e WebApps/Javascript Básico/Condicionais e controle de fluxo",
-    "Desenvolvimento Web e WebApps/Javascript Básico/Expressões e Operadores",
     "Desenvolvimento Web e WebApps/TypeScript/Sem título.canvas",
     "Desenvolvimento Web e WebApps/Sem título.canvas"
   ]

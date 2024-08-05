@@ -6,4 +6,4 @@ Nesta aula, vamos aprender o conceito de prototype chain no JavaScript, que se b
 
 ![[prototype-chain.png]]
 
-![[resumo.png]]
+![[Desenvolvimento Web e WebApps/Javascript Intermediário/Classes/images/resumo.png]]
